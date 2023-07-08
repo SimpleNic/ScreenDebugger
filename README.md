@@ -7,7 +7,7 @@ Allows the user to grab sections of their screen and read the positions and RGB 
 
 ## Controls
 - Left click creates a circle
-- Right click removes the lsat placed circle
+- Right click removes the last placed circle
 - Arrow keys move the last placed circle by 10 pixles at a time
 - wasd keys move the last placed circle by 1 pixle at a time
 - Number keys (0-9) take a new screenshot around the cursor, increasing is size respective to the number
